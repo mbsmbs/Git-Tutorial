@@ -11,4 +11,9 @@ int main()
 	{
 		return a + b;
 	}
+
+	int Sub( a, b)
+	{
+		return a - b;
+	}
 }
