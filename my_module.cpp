@@ -26,4 +26,6 @@ int main()
 	{
 		return a / b;
 	}
+
+	cout << "Hello World \n";
 }
