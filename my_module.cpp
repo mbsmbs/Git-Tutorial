@@ -21,4 +21,9 @@ int main()
 	{
 		return a * b;
 	}
+
+	int Div( a, b)
+	{
+		return a / b;
+	}
 }
