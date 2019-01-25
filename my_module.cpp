@@ -16,4 +16,9 @@ int main()
 	{
 		return a - b;
 	}
+
+	int Mul( a, b)
+	{
+		return a * b;
+	}
 }
